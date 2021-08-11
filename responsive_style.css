@@ -1,0 +1,25 @@
+.theme-color {
+    background-color: #F1F1F1;
+}
+
+.text {
+    text-align: center;
+}
+
+.button-theme {
+    background-color: #333333;
+}
+
+.fa-plus-circle {
+    font-size: 2em;
+    color: #DC0639;
+}
+
+.fa-arrow-circle-right {
+    font-size: 3em;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+}
